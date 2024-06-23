@@ -14,3 +14,6 @@ Given the importance of databases and data persistence in software engineering, 
 
 5. Save JSON to our JSON database.
 
+### Output
+
+![Console Output](custom-json-db.png)
